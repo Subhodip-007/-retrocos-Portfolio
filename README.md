@@ -28,8 +28,8 @@ The design blends a **cosmic space vibe** with **retro-futuristic aesthetics** t
 
 ## 🔗 Live Preview
 
-- 🔥 [Portfolio Live on Netlify](https://your-netlify-link.netlify.app)
-- 💻 [GitHub Repo](https://github.com/yourusername/scalesix-portfolio)
+- 🔥 [Portfolio Live on Netlify](imaginative-bienenstitch-25c7e5.netlify.app)
+- 💻 [GitHub Repo](https://subhodip-007.github.io/-retrocos-Portfolio/)
 
 
 
